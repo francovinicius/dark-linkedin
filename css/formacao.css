@@ -1,0 +1,81 @@
+.formacao {
+    position: absolute;
+    width: 78.0rem;
+    height: 12.7rem;
+    left: 25.4rem;
+    top: 176rem;
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+}
+
+.img-instituicap-formacao {
+
+    display: flex;
+    position: absolute;
+
+    width: 4.8rem;
+    height: 4.8rem;
+    left: 2rem;
+    top: 5rem;
+
+}
+
+.imagem-formacao {
+
+    position: absolute;
+
+    width: 6rem;
+    height: 6rem;
+}
+
+.texto-formacao {
+
+    position: absolute;
+    
+
+    width: 62.4rem;
+    height: 6.4rem;
+    top: 0.5rem;
+    left: 7.3rem;
+
+    color: var(--texto-principal);
+    opacity: 0.9;
+}
+
+.texto-formacao-1 {
+
+    width: 70rem;
+    height: 2.0rem;
+
+    font-weight: 600;
+    font-size: 1.8rem;
+    line-height: 2rem;
+
+    opacity: 0.9;
+}
+
+.texto-formacao-2 {
+
+    width: 70.6rem;
+    height: 1.6rem;
+    top: 0.5rem;
+
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+
+    opacity: 0.9;
+}
+
+.texto-formacao-3{
+
+    top: 0.5rem;
+
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+
+    opacity: 0.6;
+
+}

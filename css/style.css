@@ -1,0 +1,268 @@
+html{
+    font-size: 62,5%
+}
+
+
+/* cores */
+:root{
+    font-size: 62.5%;
+    
+    --fundo-escuro: #000;
+    --fundo-card: #1d2226;
+    --fundo-card-ativo: hsla(0, 0%, 100%, 0.12);
+    --texto-principal: hsla(0, 0%, 100%, 0.9);
+    --texto-secundario: hsla(0, 0%, 100%, 0.6);
+    --texto-escuro: hsla(0, 0%, 0%, 0.75);
+    --input: #38434F;
+    --primario: #70b5f9;
+    --positivo: #3ec786;
+}
+
+body {
+    font-family: 'Roboto';
+    font-style: normal;
+    background-color: var(--fundo-escuro);
+}
+
+.container-profile {
+    background-color: var(--input);
+}
+
+.profile-backgroud-image {
+    position: absolute;
+    width: 78rem;
+    height: 23rem;
+    left: 25.4rem;
+    top: 7.6rem;
+}
+
+.profile-image {
+    position: absolute;
+    width: 16rem;
+    height: 16rem;
+    left: 27.8rem;
+    top: 19.4rem;
+    
+    /* borda */
+    border-radius: 50%;
+    border: 4px solid #1B2226;
+}
+
+.container-informacoes-profile {
+
+    color: rgba(255, 255, 255, 0.9);
+    border-radius: 0px 0px 16px 16px;
+}
+
+.fundo-informacoes-profile {
+    position: absolute;
+    width: 78rem;
+    height: 23.8rem;
+    left: 25.4rem;
+    top: 30.6rem;
+
+    
+    border-radius: 0px 0px 16px 16px;
+    border-color: #000;
+    background: #1B2226;
+}
+
+.nome-profile {
+
+    position: absolute;
+    width: 19.5rem;
+    height: 3.0rem;
+    left: 27.8rem;
+    top: 36.2rem;
+
+    font-weight: 60rem;
+    font-size: 1.9rem;
+    line-height: 3.0rem;
+    
+    
+    color: var(--texto-principal);
+}
+
+.skills-profile {
+
+    position: absolute;
+    width: 35.0rem;
+    height: 2.0rem;
+    left: 27.8rem;
+    top: 39.2rem;
+
+    font-weight: 60.0rem;
+    font-size: 1.4rem;
+    line-height: 2.0rem;
+
+    color: var(--texto-principal);
+}
+
+.sobre-profile{
+
+    position: absolute;
+    width: 34.1rem;
+    height: 2.0rem;
+    left: 27.8rem;
+    top: 41.6rem;
+
+    font-weight: 40.0rem;
+    font-size: 1.3rem;
+    line-height: 2.0rem;
+
+    color: var(--texto-secundario)
+}
+
+.endereco-contato-profile{
+    display: flex;
+}
+.endreco-profile {
+    
+    position: absolute;
+    width: 13.3rem;
+    height: 2.0rem;
+    left: 27.8rem;
+    top: 44.0rem;
+
+    font-weight: 40.0rem;
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+
+    color: var(--texto-secundario)
+}
+
+.contato-profile{
+
+    position: absolute;
+    width: 15.0rem;
+    height: 2.0rem;
+    left: 42.5rem;
+    top: 44.0rem;
+
+    font-weight: 70.0rem;
+    font-size: 1.4rem;
+    line-height: 2.0rem;
+
+    color: var(--primario);
+}
+
+.seguidores-conections-profile {
+    display: flex;
+    color: var(--primario);
+}
+
+.seguidores-profile {
+
+    position: absolute;
+    width: 9.4rem;
+    height: 2.0rem;
+    left: 27.8rem;
+    top: 46.4rem; 
+
+    font-weight: 50.0rem;
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+}
+
+.conections-profile {
+
+    position: absolute;
+    width: 9.4rem;
+    height: 2.0rem;
+    left: 38.5rem;
+    top: 46.4rem; 
+
+    font-weight: 50.0rem;
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+
+}
+
+.botao-profile {
+    display: flex;
+
+    font-weight: 50.0rem;
+    font-size: 1.4rem;
+    line-height: 2.0rem;
+}
+
+.mensagem-profile {
+
+    position: absolute;
+    width: 12.8rem;
+    height: 3.2rem;
+    left: 27.8rem;
+    top: 48.8rem;
+
+    background: #70B5F9;
+    border-radius: 1.6rem;
+}
+
+.mais-profile {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 12.8rem;
+    height: 3.2rem;
+    left: 41.3rem;
+    top: 48.8rem;
+
+    border: .1rem solid #70B5F9;
+    border-radius: 1.6rem;
+    
+}
+
+.empresa-profile{
+
+    display: flex;
+
+    font-weight: 60.0rem;
+    font-size: 1.6rem;
+    line-height: 2.0rem;
+}
+.img-empresa-profile {
+
+    position: absolute;
+    width: 3.2rem;
+    height: 3.2rem;
+    left: 75.7rem;
+    top: 37.2rem;
+
+}
+.nome-empresa-profile{
+    
+    position: absolute;
+    width: 6.3rem;
+    height: 2.0rem;
+    left: 79.7rem;
+    top: 37.8rem;
+    
+    
+}
+.instituicao-profile {
+    display: flex;
+
+    font-weight: 60.0rem;
+    font-size: 1.6rem;
+    line-height: 2.0rem;
+}
+.img-instituicao-profile {
+
+    position: absolute;
+    width: 3.2rem;
+    height: 3.2rem;
+    left: 75.7rem;
+    top: 41.5rem;
+
+
+}
+.nome-instituicao-profile {
+
+    position: absolute;
+    width: 15.0rem;
+    height: 2.0rem;
+    left: 79.7rem;
+    top: 42.3rem;
+
+}

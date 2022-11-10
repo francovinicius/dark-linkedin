@@ -1,0 +1,31 @@
+.sobre {
+    position: absolute;
+    width: 78rem;
+    height: 13.4rem;
+    left: 25.4rem;
+    top: 125.5rem;
+
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+}
+
+.texto-sobre {
+
+    position: absolute;
+    width: 70.2rem;
+    height: 6.4rem;
+    left: 2.9rem;
+    top: 4.7rem;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    /* or 143% */
+
+
+    color: #FFFFFF;
+    opacity: 0.9;
+}

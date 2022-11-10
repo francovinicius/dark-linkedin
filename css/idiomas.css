@@ -1,0 +1,67 @@
+.idiomas{
+    position: absolute;
+    width: 78.0rem;
+    height: 17.8rem;
+    left: 25.4rem;
+    top: 190.0rem;
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+}
+
+.lista-idiomas {
+    color: #FFFFFF;
+}
+
+.idioma- {
+    position: absolute;
+}
+
+.idioma-texto-1 {
+
+    position: absolute;
+    width: 7.5rem;
+    height: 2.0rem;
+    left: 2.1rem;
+    top: 4rem;
+
+    
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 3.0rem;
+}
+.idioma-span-1 {
+
+    position: absolute;
+    width: 19.0rem;
+    height: 2.0rem;
+    left: 2.1rem;
+    top: 6rem;
+
+
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 3.0rem;
+
+    opacity: 0.6;
+}
+
+.margin {
+
+    position: absolute;
+    width: 70rem;
+    height: 0rem;
+    left: 2.1rem;
+    top: 9.5rem;
+
+    /* --texto-secundario */
+
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    opacity: 0.6;
+}
+
+.idioma-ingles {
+
+    position: absolute;
+    top: 6rem;
+}

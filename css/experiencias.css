@@ -1,0 +1,180 @@
+.experiencia {
+
+    position: absolute;
+    width: 78rem;
+    height: 35.8rem;
+    left: 25.4rem;
+    top: 139.5rem;
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+}
+.organização {
+
+    position: absolute;
+
+    top: 4rem;
+}
+
+.img-empresa-experiencia {
+
+    display: flex;
+    position: absolute;
+
+    width: 4.8rem;
+    height: 4.8rem;
+    left: 2rem;
+    top: 5rem;
+
+}
+
+.imagem-experiencia {
+
+    position: absolute;
+
+    width: 6.4rem;
+    height: 6.4rem;
+}
+
+.texto-experiencia {
+
+    position: absolute;
+
+    width: 62.4rem;
+    height: 6.4rem;
+    top: .9rem;
+    left: 6rem;
+
+    color: var(--texto-principal);
+    opacity: 0.9;
+}
+
+.texto-experiencia-1 {
+
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.texto-experiencia-2{
+
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    opacity: 0.6;
+
+}
+
+.cargo {
+
+    position: absolute;
+
+    top: 12rem;
+    color: #FFFFFF;
+
+}
+
+.centralizar-funcao{
+
+    display: flex;
+    align-items: center;
+    
+}
+.funcao-cargo-experiencia{
+
+    position: absolute;
+    width: 17.6rem;
+    height: 2rem;
+    left: 8rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+
+}
+
+#circulo {
+
+    position: absolute;
+    background: #ffffff;
+    border-radius: 50%;
+    width: .9rem;
+    height: .9rem;
+    left: 3.8rem;
+
+}
+
+
+
+.tipo-emprego {
+
+    position: absolute;
+    width: 9.4rem;
+    height: 1.6rem;
+    top: .9rem;
+    left: 8rem;
+
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+
+    opacity: 0.9;
+} 
+.duracao {
+
+    position: absolute;
+    width: 22.0rem;
+    height: 1.6rem;
+    top: 2.6rem;
+    left: 8rem;
+
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+
+    opacity: 0.6;
+}
+
+.localizacao {
+
+    position: absolute;
+    width: 13.3rem;
+    height: 2.0rem;
+    left: 8rem;
+    top: 4.2rem;
+
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.0rem;
+
+    opacity: 0.6;
+}
+
+#centralizar-info-cargo {
+
+    position: absolute;
+
+    height: 5.4rem;
+    left: 4.15rem;
+    top: 1rem;
+    
+    border-right: 1px solid rgba(255, 255, 255, 0.6);;
+}
+
+.cargo-2 {
+
+    position: absolute;
+
+    top: 19.8rem;
+    color: #FFFFFF;
+
+}
+
+.cargo-3 {
+
+    position: absolute;
+
+    top: 27.5rem;
+    color: #FFFFFF;
+
+}
+

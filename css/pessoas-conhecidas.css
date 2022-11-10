@@ -1,0 +1,139 @@
+.pessoas-conhecidas {
+    position: absolute;
+    width: 32.0rem;
+    height: 55.1rem;
+    left: 106rem;
+    top: 63.0rem;
+
+    background: #1B2226;
+    border-radius: 16px;
+
+    color: #ffffff;
+}
+
+.pessoas-view{
+
+    position: absolute;
+    width: 32.0rem;
+    height: 54.6rem;
+    left: 106rem;
+    top: 7.6rem;
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+
+    color: #ffffff;
+}
+
+.titulo-pessoas-conhecidas{
+    
+    position: absolute;
+    width: 23.0rem;
+    height: 3.0rem;
+    left: 1.4rem;
+    top: 1.6rem;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+
+    opacity: 0.9;
+}
+
+.img-pessoas-conhecidas {
+
+    display: flex;
+    position: absolute;
+
+
+    top: 5rem;
+
+}
+
+.imagem-pessoas-conhecidas {
+
+    position: absolute;
+
+    width: 4.8rem;
+    height: 4.8rem;
+    left: 1.4rem;
+}
+
+.texto-pessoas-conhecidas {
+
+    position: absolute;
+    
+
+    width: 22.9rem;
+    height: 6.4rem;
+    top: 0rem;
+    left: 7.3rem;
+
+    color: var(--texto-principal);
+    opacity: 0.9;
+}
+
+.texto-pessoas-conhecidas-1 {
+
+    width: 70rem;
+    height: 2.0rem;
+
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+}
+
+.texto-pessoas-conhecidas-2{
+
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+
+    opacity: 0.6;
+
+}
+
+.enviar-mensagem-pessoas-conhecidas{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 9.9rem;
+    height: 2.8rem;
+    left: 7.3rem;
+    top: 5.6rem;
+
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    border-radius: 16px;
+
+    opacity: 0.9;
+}
+
+.mensagem-pessoas-conhecidas{
+
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+}
+
+.pessoas-conhecidas-ajuste-2 {
+    position: absolute;
+    top: 10rem;
+}
+
+.pessoas-conhecidas-ajuste-3{
+    position: absolute;
+    top: 20rem;
+}
+
+.pessoas-conhecidas-ajuste-4{
+    position: absolute;
+    top: 30rem;
+}
+
+.pessoas-conhecidas-ajuste-5{
+    position: absolute;
+    top: 40rem;
+}

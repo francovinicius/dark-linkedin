@@ -1,0 +1,133 @@
+.pessoas-view{
+
+    position: absolute;
+    width: 32.0rem;
+    height: 54.6rem;
+    left: 106rem;
+    top: 7.6rem;
+
+    background: #1B2226;
+    border-radius: 1.6rem;
+
+    color: #ffffff;
+}
+
+.titulo-pessoas-view{
+    
+    position: absolute;
+    width: 23.0rem;
+    height: 3.0rem;
+    left: 1.4rem;
+    top: 1.6rem;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+
+    opacity: 0.9;
+}
+
+.img-pessoa-conteudo-atividade {
+
+    display: flex;
+    position: absolute;
+
+
+    top: 5rem;
+
+}
+
+.imagem-conteudo-atividade {
+
+    position: absolute;
+
+    width: 4.8rem;
+    height: 4.8rem;
+    left: 1.4rem;
+}
+
+.texto-conteudo-atividade {
+
+    position: absolute;
+    
+
+    width: 22.9rem;
+    height: 6.4rem;
+    top: 0rem;
+    left: 7.3rem;
+
+    color: var(--texto-principal);
+    opacity: 0.9;
+}
+
+.texto-conteudo-atividade-1 {
+
+    width: 70rem;
+    height: 2.0rem;
+
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+}
+
+.texto-conteudo-atividade-2{
+
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+
+    opacity: 0.6;
+
+}
+
+.enviar-mensagem-conteudo-atividade{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 15.4rem;
+    height: 2.8rem;
+    left: 7.3rem;
+    top: 5.6rem;
+
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    border-radius: 16px;
+
+    opacity: 0.9;
+}
+
+.mensagem-conteudo-atividade{
+
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+}
+
+.conteudo-atividade-2 {
+
+    position: absolute;
+    top: 10rem;
+}
+
+.conteudo-atividade-3{
+
+    position: absolute;
+    top: 20rem;
+
+}
+
+.conteudo-atividade-4{
+
+    position: absolute;
+    top: 30rem;
+
+}
+
+.conteudo-atividade-5{
+
+    position: absolute;
+    top: 40rem;
+
+}

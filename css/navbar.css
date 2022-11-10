@@ -1,0 +1,121 @@
+section.navbar {
+
+    height: 52px;
+    padding: 0 50rem 0 6rem;
+
+    background: var(--fundo-card);
+    
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.navbar-busca {
+    width: 37rem;
+
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.navbar-logo-linkedin {
+
+    width: 3.4rem;
+    height: 3.4rem;
+    margin-right: .8rem;
+    
+    cursor: pointer;
+    background-image: url(../img/icon/linkedin.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar-busca-icone {
+
+    position: absolute;
+
+    width: 2.4rem;
+    height: 2.4rem;
+    left: 4.3rem;
+
+    background-image: url(../img/icon/busca-in.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar-input {
+
+    width: 28rem;
+    height: 3.4rem;
+
+    background: var(--input);
+    border: none;
+    border-radius: .3rem;
+    padding-left: 2.4rem;
+}
+
+.navbar-input::placeholder {
+    color: var(--texto-secundario);
+}
+
+.navbar nav{
+    display: flex;
+}
+
+.navbar-item {
+
+    height: 5.2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-item:last-child {
+
+    margin-left: .2rem;
+    border-left: 1px solid var(--texto-secundario);
+}
+
+.navbar-item a{
+
+    text-align: center;
+    width: 8rem;
+    font-size: .8rem;
+    color: var(--texto-secundario);
+    transition: color .3s ease;
+}
+
+.navbar-item a:hover{
+
+    color: var(--texto-principal);
+}
+
+.item-icone {
+
+    width: 2.4rem;
+    height: 2.4rem;
+
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+span.inicio{
+    background-image: url(../img/icon/inicio.svg);
+  }
+  span.minha-rede{
+    background-image: url(../img/icon/minha-rede.svg);
+  }
+  span.vagas{
+    background-image: url(../img/icon/vagas.svg);
+  }
+  span.mensagens{
+    background-image: url(../img/icon/mensagens.svg);
+  }
+  span.notificacoes{
+    background-image: url(../img/icon/notificacoes.svg);
+  }
+  span.solucoes{
+    background-image: url(../img/icon/solucoes.svg);
+  }
